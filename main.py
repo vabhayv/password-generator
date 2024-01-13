@@ -5,7 +5,7 @@ alphabets = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p',
 
 numbers = ['0','1','2','3','4','5','6','7','8','9']
 
-symbols = ['!','@','#','$','&','*','(',')','_','+',';',':','%']
+symbols = ['!','@','#','$','&','*','(',')','_','+',';',':','%','?','/']
 
 input("Welcome to the password generator!!\ntap enter to continue")
 
